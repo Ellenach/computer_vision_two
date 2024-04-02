@@ -1,3 +1,3 @@
-OpenCV
-streamlit
-ultralytics
+ultralytics==8.1.35
+opencv-python==4.9.0.80
+streamlit==1.32.2pip
